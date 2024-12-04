@@ -2,3 +2,5 @@
 /old2/*
 /pycache/*
 /venv/*
+/vscode/*
+/DLProject/dataset/*
